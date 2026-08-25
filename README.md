@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Prasanta Kumar 👋
 
-<!--
-**Prasanta-Kumar-code/Prasanta-Kumar-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specializing in AEM, Java, and Full Stack Development.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Adobe Experience Manager (AEM)
+- Java
+- Spring Boot
+- React
+- REST APIs
+- Git & GitHub
+- Azure Fundamentals
+
+## 📂 Featured Projects
+
+### AEM Component Library
+Reusable enterprise-grade AEM components with Sling Models and HTL.
+
+### AEM React Headless Application
+AEM Content Fragments exposed via GraphQL and consumed by React.
+
+### Spring Boot Microservices
+Microservices-based e-commerce application.
+
+## 📫 Connect With Me
+
+- LinkedIn: your-linkedin-url
+- Email: your-email
