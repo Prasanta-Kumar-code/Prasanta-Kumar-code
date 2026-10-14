@@ -25,5 +25,5 @@ Microservices-based e-commerce application.
 
 ## 📫 Connect With Me
 
-- LinkedIn: your-linkedin-url
-- Email: your-email
+- LinkedIn: www.linkedin.com/in/prasanta-kumar-khatei-b03b66220
+- Email: prasantkumarkhatei9@gmail.com
