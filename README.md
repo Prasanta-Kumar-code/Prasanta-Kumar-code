@@ -1,12 +1,8 @@
-<div align="center">
-	<img src="./assets/profile-banner.svg" alt="Prasanta Kumar | AEM, Java and frontend engineering" width="100%" />
+![Prasanta Kumar | AEM, Java and frontend engineering](./assets/profile-banner.svg)
 
-	<p>
-		<a href="https://www.linkedin.com/in/prasanta-kumar-khatei-b03b66220/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-		<a href="mailto:prasantkumarkhatei9@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4B35?style=flat-square&logo=gmail&logoColor=white" alt="Send an email" /></a>
-		<a href="https://github.com/Prasanta-Kumar-code/prasanta-kumar-khatei-portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-176B62?style=flat-square&logo=github&logoColor=white" alt="Visit my portfolio" /></a>
-	</p>
-</div>
+[![LinkedIn: Connect](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanta-kumar-khatei-b03b66220/)
+[![Email: Say hello](https://img.shields.io/badge/Email-Say%20hello-EA4B35?style=flat-square&logo=gmail&logoColor=white)](mailto:prasantkumarkhatei9@gmail.com)
+[![Portfolio: Explore](https://img.shields.io/badge/Portfolio-Explore-176B62?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasanta-Kumar-code/prasanta-kumar-khatei-portfolio)
 
 ## Senior AEM Developer & Frontend Engineer
 
