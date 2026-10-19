@@ -1,4 +1,4 @@
-![Prasanta Kumar | AEM, Java and frontend engineering](./assets/profile-banner.svg)
+![Prasanta Kumar | AEM, Java and Fullstack Developer](./assets/profile-banner.svg)
 
 [![LinkedIn: Connect](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanta-kumar-khatei-b03b66220/)
 [![Email: Say hello](https://img.shields.io/badge/Email-Say%20hello-EA4B35?style=flat-square&logo=gmail&logoColor=white)](mailto:prasantkumarkhatei9@gmail.com)
