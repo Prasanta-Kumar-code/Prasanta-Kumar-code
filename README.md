@@ -4,7 +4,7 @@
 [![Email: Say hello](https://img.shields.io/badge/Email-Say%20hello-EA4B35?style=flat-square&logo=gmail&logoColor=white)](mailto:prasantkumarkhatei9@gmail.com)
 [![Portfolio: Explore](https://img.shields.io/badge/Portfolio-Explore-176B62?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasanta-Kumar-code/prasanta-kumar-khatei-portfolio)
 
-## Senior AEM Developer & Frontend Engineer
+## Senior AEM Developer & Fullstack Developer
 
 I build content-rich digital experiences, from cloud-ready Adobe Experience Manager platforms and reusable component systems to modern web frontends. I enjoy working across the stack: shaping maintainable Java and Sling foundations, making authoring intuitive, and bringing the final experience together in the browser.
 
